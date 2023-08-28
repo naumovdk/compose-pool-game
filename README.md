@@ -1,2 +1,3 @@
-# compose-pool-game
-Kotlin compose pool game
+# Pool game
+
+`./gradlew run`
